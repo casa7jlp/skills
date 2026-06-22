@@ -1,0 +1,9 @@
+# NUNCA suba estes arquivos para o GitHub - são suas chaves secretas!
+credentials.json
+token.json
+
+# Lixo do Python
+__pycache__/
+*.pyc
+.venv/
+venv/
